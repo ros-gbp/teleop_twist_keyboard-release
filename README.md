@@ -1,3 +1,26 @@
+## teleop_twist_keyboard (jade) - 0.6.0-0
+
+The packages in the `teleop_twist_keyboard` repository were released into the `jade` distro by running `/usr/bin/bloom-release -t jade -r jade teleop_twist_keyboard` on `Mon, 21 Mar 2016 18:35:45 -0000`
+
+The `teleop_twist_keyboard` package was released.
+
+Version of package(s) in repository `teleop_twist_keyboard`:
+
+- upstream repository: https://github.com/ros-teleop/teleop_twist_keyboard.git
+- release repository: https://github.com/ros-gbp/teleop_twist_keyboard-release.git
+- rosdistro version: `0.5.0-0`
+- old version: `0.5.0-0`
+- new version: `0.6.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## teleop_twist_keyboard (indigo) - 0.6.0-0
 
 The packages in the `teleop_twist_keyboard` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -t indigo -r indigo teleop_twist_keyboard` on `Mon, 21 Mar 2016 18:33:47 -0000`
