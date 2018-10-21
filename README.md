@@ -1,3 +1,26 @@
+## teleop_twist_keyboard (indigo) - 0.6.2-0
+
+The packages in the `teleop_twist_keyboard` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive --rosdistro indigo --track indigo teleop_twist_keyboard` on `Sun, 21 Oct 2018 19:55:32 -0000`
+
+The `teleop_twist_keyboard` package was released.
+
+Version of package(s) in repository `teleop_twist_keyboard`:
+
+- upstream repository: https://github.com/ros-teleop/teleop_twist_keyboard.git
+- release repository: https://github.com/ros-gbp/teleop_twist_keyboard-release.git
+- rosdistro version: `0.6.1-0`
+- old version: `0.6.1-0`
+- new version: `0.6.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## teleop_twist_keyboard (melodic) - 0.6.1-0
 
 The packages in the `teleop_twist_keyboard` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --non-interactive --rosdistro melodic --track melodic teleop_twist_keyboard` on `Wed, 02 May 2018 16:54:36 -0000`
