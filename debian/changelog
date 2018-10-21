@@ -1,0 +1,44 @@
+ros-melodic-teleop-twist-keyboard (0.6.2-0bionic) bionic; urgency=high
+
+  * Replace tabs with spaces, fixes #15 <https://github.com/ros-teleop/teleop_twist_keyboard/issues/15>
+  * Merge pull request #13 <https://github.com/ros-teleop/teleop_twist_keyboard/issues/13> from asukiaaa/patch-3
+    Add rosrun command to specify values
+  * Add rosrun command to specify values
+  * Contributors: Asuki Kono, Austin, trainman419
+
+ -- Austin Hendrix <namniart@gmail.com>  Sun, 21 Oct 2018 00:00:00 -0000
+
+ros-melodic-teleop-twist-keyboard (0.6.1-0bionic) bionic; urgency=high
+
+  * Merge pull request #11 <https://github.com/ros-teleop/teleop_twist_keyboard/issues/11> from MatthijsBurgh/patch-1
+    Correct exception handling; Python3 print compatible
+  * import print from future
+  * Print python3 compatible
+  * correct Exception handling
+  * Merge pull request #7 <https://github.com/ros-teleop/teleop_twist_keyboard/issues/7> from lucasw/speed_params
+    set linear and turn speed via rosparams
+  * Using tabs instead of spaces to match rest of file
+  * set linear and turn speed via rosparams
+  * Contributors: Austin, Lucas Walter, Matthijs van der Burgh
+
+ -- Austin Hendrix <namniart@gmail.com>  Wed, 02 May 2018 00:00:00 -0000
+
+ros-melodic-teleop-twist-keyboard (0.6.0-0bionic) bionic; urgency=high
+
+  * Better instruction formatting
+  * support holonomic base, send commmand with keyboard down
+  * Fixing queue_size warning
+  * Create README.md
+  * Update the description string in package.xml
+  * Contributors: Austin, Kei Okada, LiohAu, Mike Purvis, kk6axq, trainman419
+
+ -- Austin Hendrix <namniart@gmail.com>  Mon, 21 Mar 2016 00:00:00 -0000
+
+ros-melodic-teleop-twist-keyboard (0.5.0-0bionic) bionic; urgency=high
+
+  * Initial import from brown_remotelab
+  * Convert to catkin
+
+ -- Austin Hendrix <namniart@gmail.com>  Tue, 11 Feb 2014 00:00:00 -0000
+
+
